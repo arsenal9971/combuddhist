@@ -1,2 +1,3 @@
-# combuddhist
-Repo for the Computable Buddhist
+# <center> Computable Buddhist </center>
+
+Repository for "The computable buddhist" webpage.
